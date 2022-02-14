@@ -1,3 +1,4 @@
 const a = 'a';
+const b = 'b';
 
-console.log(a);
+console.log(a, b);
